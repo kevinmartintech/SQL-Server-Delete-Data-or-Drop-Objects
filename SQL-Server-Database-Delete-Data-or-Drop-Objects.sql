@@ -6,8 +6,8 @@
 ** Usage:       Use the changeable variables below to either delete table data or drop database objects.
 **
 **              Expected SQL Server and Database name validation
-**				 Update the variables @ExpectedSQLServerName & @ExpectedDatabaseName to validate this script executes
-**				 only on the SQL Server instance and database you are intending.
+**               Update the variables @ExpectedSQLServerName & @ExpectedDatabaseName to validate this script executes
+**               only on the SQL Server instance and database you are intending.
 **
 **              Deleting Table Data
 **               To delete all the rows in all the database tables set the variable @DeleteData = 1.
